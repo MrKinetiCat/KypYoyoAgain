@@ -40,7 +40,7 @@ namespace KypYoyo.Content.Tiles.Furniture
 
             TileObjectData.newTile.CoordinateHeights = new int[] { 16, 16, 18 };
             TileObjectData.newTile.Origin = new Point16(0, 0);
-            //eepy
+            //eepysdF
             TileObjectData.addTile(Type);
 
             LocalizedText YoyoSmithingStation = CreateMapEntryName();
