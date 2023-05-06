@@ -1,0 +1,27 @@
+Items: {
+	TutorialItem: {
+		DisplayName: Tutorial Item
+		Tooltip: Turns you gay
+	}
+
+	YoyoSmithingStationItem: {
+		DisplayName: Yoyo Smithing Station Item
+		Tooltip: ""
+	}
+
+	YoyoSmithingStation: {
+		DisplayName: Yoyo Smithing Station
+		Tooltip: ""
+	}
+}
+
+Tiles: {
+	Furniture: {
+		YoyoSmithingStation: {
+			DisplayName: Yoyo Smithing Station
+			Tooltip: The workhorse of Kypsie's yoyo mod, essential to creating new yoyos.
+		}
+	}
+
+	YoyoSmithingStation.MapEntry: Yoyo Smithing Station
+}

@@ -1,0 +1,76 @@
+Kypsie's Grand Yoyo Mod
+
+<major>.<minor>.<build>.<revision>
+
+Create yoyo how to https://forums.terraria.org/index.php?threads/official-tmodloader-help-thread.28901/ 
+
+Make your own projectile https://docs.google.com/document/d/1-Sr-9JPD32QyNsRZcTng_L3FSqlnWNZTi78H429frDE/mobilebasic
+
+Other yoyo mod https://forums.terraria.org/index.php?threads/tys-yoyo-redux-a-yoyo-expansion-mod.104812/
+
+Projectile give debuff https://forums.terraria.org/index.php?threads/how-do-you-make-a-projectile-apply-a-debuff-onto-a-hit-enemy.87591/
+
+
+Main mechanics:
+
+    Create your own yoyos! Craft existing vanilla weapons into new yoyos!
+    Using the shimmer will revert the yoyo back into it's crafting components.
+    Go crazy go stupid.
+
+
+
+Starfury as yoyo
+
+
+
+Ideas for accessories
+
+    Name [progression] (recipe) {use} <ingamedescription>
+    Bag of Counterweights [Prehardmode] (1 of each counterweight) {Throws out six counterweights upon single hit} <Creates chaos by throwing six counterweights upon single hit by yoyo.>
+    Reinforced string [post evil boss] (10 meteor bars + one string) {Increases throw distance by 6 blocks instead of 4-5} <Throws yoyos just a little bit further than normal string>
+    Bag of Holding of Counterweights [post skeletron] (void bag + bag of counterweights) {Throws six counterweights upon single hit and one more for every hit until yoyo retracts or until 12 counterweights} <Creates chaos through counterweight spam.>
+    Robotic Arm [post skeletron prime] (100% Dropped from Skeletron prime loot bag) {Allows you to throw another yoyo} <Throws another yoyo, regardless of if the first hits or not.>
+    Counterweight Pocket Dimension [post pillars] (Bag of Holding of Counterweights + 20 void fragments) {creates phantasmal counterweights from thin air and spews them out in a random direction at a rate of one every 0.125s that are NOT attached to the player by string and will bounce 3 times with no gravity effect (use crystal storm projectile to use as framework for creating a new projectile)} <These counterweights aren't long for this world, but they won't leave without a fight.>
+
+
+
+Ideas for yoyos
+
+
+Prehardmode
+
+    Learned Yoyo [prehardmode] (15 books + string) {equivalent to malaise yoyo in damage (17d) + range, has a small (10') damaging (3dps no knockback) aura around it} <Despite your crude and brutish crafting, it somehow gained a damaging aura.>
+    Paper Yoyo [post evil boss] (10 paper airplanes + 20 meteor bars) {+20 armor penetration (25d)} <Ouch! A paper cut!>
+    Sunfury Yoyo [post skeletron] (Sunfury + string) {Like cascade but a little worse (26d), fire debuff lasts shorter than cascade} <Like a hand warmer but in yoyo form> 
+    Blue Moon Yoyo [post skeletron] (Blue Moon + string) {Like hi-five but a little bit better (27d)} <Feels cool to the touch>
+    Sun and Moon [post skeletron] (blue moon flail > blue moon yoyo + sunfury > sunfury yoyo + two string) {throws out two yoyos, one blue one red, red inflicts on fire debuff, blue creates light particles. The only yoyo prehardmode that throws out two yoyos (30d each)} <Finally, the sun and moon come together in a harmonious dance...just...ignore the vacancy of Terra.>
+    True Learned Yoyo [post skeletron] (learned yoyo + all prehardmode books (3 of them)) {fires a projectile (skull, demon scythe, or waterbolt) for in a spread (25 degrees where cursor is) every 1.4 seconds (24d))} <Not your best craftsmanship, but it will do.>
+
+
+Hardmode
+
+    Smelted Scrap Yoyo [early hardmode] (musket + boomstick + handgun + quad barrel shotgun + star cannon + minishark) {Literally nothing but bleeding debuff (35d)} <It's pretty rough around the edges, so be careful.>
+    Decorated True Learned Yoyo [early hardmode] (True learned yoyo + flower of frost + flower of fire) {fires a random projectile (demon scythe, waterbolt, skull, ball of fire, ball of frost) in a tighter spread (20 degrees) every 1.1 seconds (45d) <Looks like trash, smells like heaven.>
+    Mega Super Uber Amazing Yoyo [post destroyer] (Smelted Scrap yoyo + 12 hallowed bars + 5 shark fins + 20 souls of might + illegal gun parts) {Bleeding, 60d, creates a debuff called "Despised" where it's +400 aggro, lasts as long as it's used+10 seconds when retracted (look at invisibility potion for help maybe? [-700 when not using item, -250 when using any item])} <You have created an abomination to Terraria. When used, enemies are more likely to target you.>
+
+
+Post mech pre pillars
+
+    Wise Decorated True Learned Yoyo [post mech] (Decorated true learned yoyo + crystal storm + golden shower + cursed flames + tome of infinite wisdom) {fires a random projectile (demon scythe, waterbolt, skull, ball of fire, ball of frost, tome of infinite wisdom, cursed flame (friendly), golden shower (friendly), crystal storm) in a tighter spread (15 degrees) every 0.8 seconds (55d)(15% crit)) <With a name like this, it's gotta be good.>
+    Terra Yoyo [post mech] (Terra Blade + reinforced string) {Green, like the terra blade, creates projectiles that move in the direction of the cursor ahead of the yoyo, (65d) (creates a new projectile every 0.35s, lasts for 150 blocks, pierces infinitely) <Terra blade, but in yoyo form, what more could you ask for?>
+    Orrery Yoyo [post mech] (terra yoyo + "sun + moon") {All three yoyos in harmony, sun in center, terra around sun, moon around terra (72d) terra still shoots out projectiles, but sun + moon don't, sun inflicts on fire debuff} <Behold! Our star system, but in yoyo form!>
+    Scholar's Sidekick [post fishron] (Wise Decorated True learned yoyo + magnet sphere + razorblade typhoon) {fires a random projectile (demon scythe, waterbolt, skull, ball of fire, ball of frost, tome of infinite wisdom, cursed flame (friendly), golden shower (friendly), crystal storm, magnet sphere ball+magnet sphere bolt, typhoon) in a tight spread (10 degrees) every 0.5 seconds. (100d)} <The penultimate in the learned yoyo series, use it well Terrarian.>
+
+
+Post pillars beyond
+
+    True Orrery Yoyo [post pillars] (Orrery yoyo + 10 each lunar fragments [from pillars]) {literally nothing changes but 5 to 10% crit chance and now 130d} <Now 50% more chaos!>
+    Scholar's Passion Project [post moonlord] (Scholar's sidekick + Lunar flare) {fires a random projectile (demon scythe, waterbolt, skull, ball of fire, ball of frost, tome of infinite wisdom, cursed flame (friendly), golden shower (friendly), crystal storm, magnet sphere ball+magnet sphere bolt, typhoon, lunar flare) every 0.25 seconds (200d)
+    Ultimatum [post moonlord] (True Orrery Yoyo + Scholar's Passion Project + 
+
+
+
+Ideas for other
+
+    Counterweight Grenade [prehardmode] (one counterweight of any kind + 100 bombs = 100 counterweight grenades) {throws counterweights as shrapnel, make a counterweight projectile, not affected by gravity (50d)} <Throws counterweights as shrapnel> 
+    Yoyo sentry [post golem] (golem drop?) {throws a buffed version of the sun and moon yoyo (85d)} <Finally, something to throw your yoyos for you!>

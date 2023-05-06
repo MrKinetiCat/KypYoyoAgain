@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNcQ02lCL5BKM0guWmGm2ixZgSjawTGIHca/f2Fb3ibanbLYhmB9Wo45v4wbCrfRxNKQ0fyTFZeAJZE2Hkk8Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giddo\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\KypYoyo\\KypYoyo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giddo\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
