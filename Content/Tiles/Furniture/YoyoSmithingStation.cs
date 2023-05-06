@@ -45,7 +45,6 @@ namespace KypYoyo.Content.Tiles.Furniture
 
             LocalizedText YoyoSmithingStation = CreateMapEntryName();
             AddMapEntry(new Color(256,  256, 0), YoyoSmithingStation);
-
         }
 
         public override void KillMultiTile(int i, int j, int frameX, int frameY)
